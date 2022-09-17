@@ -3,7 +3,7 @@ public class SumElementsOfArray {
         int a[] = {2, 5, 7, 9, 6};
         int sum = 0;
 
-        //first way
+        
         /*for(int i=0; i<a.length; i++){
             sum = sum + a[i];
         }*/
